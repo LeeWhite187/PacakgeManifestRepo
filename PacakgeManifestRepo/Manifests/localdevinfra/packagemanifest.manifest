@@ -1,0 +1,26 @@
+﻿{
+  "Header": {
+    "CreationDateUTC": "2026-04-22T05:48:06.9228297+00:00",
+    "LastUpdateUTC": "2026-04-22T05:48:06+00:00",
+    "DocumentKind": "package-manifest",
+    "ContainerVersion": 2,
+    "PayloadTypeName": "PackageManifest",
+    "PayloadTypeVersion": 1,
+    "PayloadVersion": 1,
+    "SerializationFormat": "json",
+    "PayloadEncodingKind": "none"
+  },
+  "Payload": {
+    "RepoSources": [],
+    "PackageEntries": [],
+    "RepoTarget": {
+      "SourceName": "localinfra.Baget",
+      "ServiceIndexUrl": "",
+      "RepoType": "BaGet"
+    },
+    "CreationUTC": "2026-04-22T05:48:06.9228297\u002B00:00",
+    "LastUpdateUTC": "2026-04-22T05:48:06\u002B00:00",
+    "DataVersion": 1
+  },
+  "Signature": null
+}
